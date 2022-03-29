@@ -1,0 +1,29 @@
+<resources>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZGVyeml0dGUiLCJhIjoiY2t5MWlsbWdwMDZ2ZzJwbnl1OWFwOWU0NCJ9.XEoVVrCyI3priZxG1KQDfw</string>
+    <string name="app_name">WhatASight</string>
+    <string name="button_addPOI">Add POI</string>
+    <string name="hint_poiTitle">POI Title</string>
+    <string name="hint_poiDescription">Description </string>
+    <string name="menu_addPOI">Add</string>
+    <string name="menu_cancelPOI">Cancel</string>
+    <string name="enter_poi_title"> Please enter a POI Title </string>
+    <string name="save_poi"> Save poi </string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="select_poi_image">Select POI image</string>
+    <string name="change_poi_image">Change POI image</string>
+    <string name="button_location">Set Location</string>
+    <string name="title_activity_map">Map</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
